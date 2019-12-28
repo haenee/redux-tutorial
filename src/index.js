@@ -9,7 +9,7 @@ const reducer = ()=>{
   return "state";
 }
 
-const store =createStore(reducer);
+const store =createStore(reducer );
 
 
 
